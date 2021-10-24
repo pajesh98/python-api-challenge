@@ -32,7 +32,10 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
+# Adding config.py file.
+api_keys.py
+API_practice.ipynb
+random_numbers.ipynb
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
